@@ -17,3 +17,5 @@ Ao analisar os dados, é importante ter em mente que existem algumas premissas d
 - Identificar a média de renda dos clientes em diferentes canais de venda pode ajudar a loja a adaptar a estratégia de marketing e vendas para cada público-alvo.
 ### Média de idade de clientes por bandeira: 
 - Saber a faixa etária dos clientes por bandeira pode ajudar a identificar perfis de consumidores e ajustar a estratégia de venda para atender melhor cada público.
+## Conclusão Geral:
+As análises realizadas oferecem uma visão abrangente sobre o comportamento dos consumidores e o desempenho de vendas da loja. Ao entender melhor quais produtos são mais vendidos, como os preços variam por departamento, os padrões sazonais de vendas, e os perfis de clientes por canal e faixa etária, a loja pode ajustar suas estratégias para maximizar a eficiência operacional e melhorar a satisfação dos clientes. Essas informações são fundamentais para a tomada de decisões mais assertivas, permitindo um crescimento sustentável e a adaptação contínua às demandas do mercado.
