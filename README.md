@@ -1,4 +1,4 @@
-# Data Science - Case 02
+# Data Science - Varejo Virtual 
 
 ## Dataset de varejo.
 O dataset de varejo que temos em mãos é composto por informações de vendas de uma loja virtual que atua em todo o território nacional, vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros.
